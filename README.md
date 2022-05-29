@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Joaquin</h1>
-<h3 align="center">Holberton School Student</h3>
+<h1 align="center">Hey you 👋, I'm Joaco</h1>
+<h3 align="center">Currently a Holberton School Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joakg16&label=Profile%20views&color=0e75b6&style=flat" alt="joakg16" /> </p>
 
-- 🔭 I’m currently working on [Shell](https://github.com/joakG16/shell)
+- 🔭 At the moment I'm working on [Shell](https://github.com/joakG16/shell)
 
 - 📫 How to reach me **4379@holbertonschool.com**
 
