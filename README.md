@@ -1,5 +1,5 @@
 <h1 align="center">Hey you 👋, I'm Joaco</h1>
-<h3 align="center">Currently a Holberton School Student</h3>
+<h3 align="center">Currently a Holberton School Student <p align="left"> <a href="https://www.holbertonschool.com" target="_blank" rel="noreferrer"> <img src="https://assets.website-files.com/6105315644a26f77912a1ada/610540e8b4cd6969794fe673_Holberton_School_logo-04-04.svg" alt="bash" width="20" height="20"/> </a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joakg16&label=Profile%20views&color=0e75b6&style=flat" alt="joakg16" /> </p>
 
