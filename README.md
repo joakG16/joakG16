@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joakg16&label=Profile%20views&color=0e75b6&style=flat" alt="joakg16" /> </p>
 
-- 🔭 At the moment I'm working on [Shell](https://github.com/joakG16/shell)
+- 🔭 At the moment I'm working on [Low level Programming (C lenguage)](https://github.com/joakG16/holbertonschool-low_level_programming)
 
 - 📫 How to reach me **4379@holbertonschool.com**
 
@@ -14,6 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joakg16&show_icons=true&locale=en" alt="joakg16" /></p>
 
