@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/www.linkedin.com/in/joaquin-dominguez16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/joaquin-dominguez16" height="30" width="40" /></a>
-<a href="https://instagram.com/joacodominguez.jpeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joacodominguezz_" height="30" width="40" /></a>
+<a href="https://instagram.com/joacodominguezz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joacodominguezz_" height="30" width="40" /></a>
 <a href="https://discord.gg/Joako#3312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Joako#3312" height="30" width="40" /></a>
 </p>
 
